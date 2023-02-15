@@ -40,6 +40,6 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🔥 My Stats :
 <div style="width:100%"> 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Lamank&show_icons=true&theme=darkcount_private=true"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamank&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Lamank&show_icons=true&theme=darkcount_private=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamank&layout=compact" />
 </div>
