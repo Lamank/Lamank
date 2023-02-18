@@ -11,7 +11,9 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- 📫 How to reach me **lamankalbiyeva@gmail.com**, <a href="https://linkedin.com/in/laman-kalbiyeva-03190b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laman-kalbiyeva-03190b227/" height="25" width="25" /></a>
+- 📫 How to reach me:
+    - Gmail ~ **lamankalbiyeva@gmail.com**
+    - Linkedin ~ **https://www.linkedin.com/in/laman-kalbiyeva-03190b227/**
 
 
 #
