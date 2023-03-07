@@ -7,7 +7,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
-- 💬 Ask me about **Python, Django, Flask, Rest API**
+- 💬 Ask me about **Python, Django, Flask, Rest API, React**
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
