@@ -5,9 +5,9 @@
 ### :woman_technologist: About Me :
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **Django Rest Framework, React**
 
-- 💬 Ask me about **Python, Django, Flask, Rest API, React**
+- 💬 Ask me about **Python, Django, Flask, Rest API**
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
